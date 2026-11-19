@@ -17,3 +17,7 @@ python -m ipykernel install --user --name dsm-final --display-name "DSM final (v
 Then open `src/Final_Project_Heat_Stress.ipynb`, select the `venv` / "DSM final" kernel and Run All (~2–3 min).
 Headless run: `python -m nbconvert --to notebook --execute src/Final_Project_Heat_Stress.ipynb --output-dir <dir>`.
 Running the notebook overwrites files in `results/`; only the timing columns (`*_ms_per_event`) change between runs.
+
+## Hyperparameter tuning
+
+`src/tune_hyperparameters.py` runs a leakage-safe random search (selection on 2016–2017 only, then one replay on 2018–2025). Findings, selected parameters and baseline-vs-tuned scores: [results/tuning/FINDINGS.md](results/tuning/FINDINGS.md).
