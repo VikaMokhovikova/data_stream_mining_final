@@ -1,4 +1,4 @@
-"""Leakage-safe hyperparameter search for the PA44 heat-stress stream models.
+"""Leakage-safe hyperparameter search for the heat-stress stream models.
 
 Protocol
 --------
