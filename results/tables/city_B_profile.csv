@@ -1,0 +1,2 @@
+city,observed_shift_hours,heat_event_n,non_event_n,heat_event_rate_pct,temperature_mean_c,temperature_std_c,temperature_p95_c,temperature_max_c,event_episode_n,longest_episode_hours,mean_episode_hours,shift_days_3plus_events_pct
+Covilhã,26090,3467,22623,13.288616328095054,16.338543503257956,7.649387336912484,30.1,39.4,615,10,5.63739837398374,21.80912226906861

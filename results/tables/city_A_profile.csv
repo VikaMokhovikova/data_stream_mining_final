@@ -1,0 +1,2 @@
+city,observed_shift_hours,heat_event_n,non_event_n,heat_event_rate_pct,temperature_mean_c,temperature_std_c,temperature_p95_c,temperature_max_c,event_episode_n,longest_episode_hours,mean_episode_hours,shift_days_3plus_events_pct
+Portimão,26090,6210,19880,23.802223073974705,20.997044844768112,6.498838051209678,32.4,41.3,975,10,6.369230769230769,35.224223840551936

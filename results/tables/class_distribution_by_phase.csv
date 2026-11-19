@@ -1,0 +1,5 @@
+city,phase,observed_paired_hours,non_event_n,event_n,event_rate_pct
+Portimão,warmup,5210,3855,1355,26.00767754318618
+Portimão,evaluation,20880,16025,4855,23.25191570881226
+Covilhã,warmup,5210,4446,764,14.664107485604607
+Covilhã,evaluation,20880,18177,2703,12.945402298850574

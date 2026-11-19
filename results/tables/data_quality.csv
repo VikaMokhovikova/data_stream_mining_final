@@ -1,0 +1,9 @@
+city,variable,calendar_hours,missing_n,missing_pct,min,median,max,wide_iqr_review_flags,invalid_domain_n
+Portimão,temperature_2m,87672,0,0.0,-0.9,17.6,44.3,0,0
+Portimão,relative_humidity_2m,87672,0,0.0,10.0,74.0,100.0,0,0
+Portimão,precipitation,87672,0,0.0,0.0,0.0,9.3,7567,0
+Portimão,wind_speed_10m,87672,0,0.0,0.0,11.8,51.9,2,0
+Covilhã,temperature_2m,87672,0,0.0,-4.1,13.1,39.4,0,0
+Covilhã,relative_humidity_2m,87672,0,0.0,8.0,74.0,100.0,0,0
+Covilhã,precipitation,87672,0,0.0,0.0,0.0,11.3,14612,0
+Covilhã,wind_speed_10m,87672,0,0.0,0.0,8.0,33.5,123,0

@@ -1,0 +1,11 @@
+{
+  "quantile": 0.8,
+  "threshold_celsius": 26.1,
+  "warmup_first_utc": "2016-01-01 08:00:00+00:00",
+  "warmup_last_utc": "2017-12-29 17:00:00+00:00",
+  "pooled_observed_warmup_hours": 10420,
+  "warmup_city_counts": {
+    "Portimão": 5210,
+    "Covilhã": 5210
+  }
+}

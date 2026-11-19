@@ -1,0 +1,3 @@
+city,scheduled_calendar_hours,warmup_scheduled_hours,evaluation_scheduled_hours,city_missing_target_hours,paired_warmup_hours,paired_evaluation_hours,paired_excluded_hours
+Portimão,26090,5210,20880,0,5210,20880,0
+Covilhã,26090,5210,20880,0,5210,20880,0

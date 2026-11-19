@@ -1,0 +1,3 @@
+city,baseline,n_evaluated,accuracy,macro_f1,precision_event,recall_event,TN,FP,FN,TP
+Portimão,Always predict no event,20880,0.7674808429118773,0.43422300501287087,0.0,0.0,16025,0,4855,0
+Covilhã,Always predict no event,20880,0.8705459770114943,0.4653967278592826,0.0,0.0,18177,0,2703,0
