@@ -178,4 +178,11 @@ python src\tune_hyperparameters.py --trials 120
 | `official_comparison.csv` | Baseline vs tuned per city × representation × model |
 | `FINDINGS.md` | This report |
 
-The notebook (`src/Final_Project_Heat_Stress.ipynb`) and the main `results/` files still use the original parameters.
+## Integration into the main pipeline
+
+The main notebook (`src/Final_Project_Heat_Stress.ipynb`) keeps the seven default learners unchanged and adds one tuned learner, **Tuned Online Bagging**, using the representation-specific parameters above (`TUNED_BAGGING` in the model-definition cell). Online Bagging was chosen because, among all tuned models, it had the highest 2017 validation macro-F1 for both representations:
+
+- A: 0.9581, ahead of Logistic Regression at 0.9571.
+- B: 0.9738, ahead of Hoeffding Tree at 0.9653.
+
+So the choice itself also used only the warm-up. The main `results/` files therefore cover 32 configurations (2 cities × 2 representations × 8 learners).

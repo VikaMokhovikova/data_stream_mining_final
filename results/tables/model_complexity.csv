@@ -6,6 +6,7 @@ Portimão,A,Online Bagging,active ensemble tree nodes,201
 Portimão,A,Adaptive Random Forest,active ensemble tree nodes,65
 Portimão,A,UnimPA,rules,5
 Portimão,A,UnimSafe,rules,5
+Portimão,A,Tuned Online Bagging,active ensemble tree nodes,921
 Portimão,B,Gaussian Naive Bayes,class-feature Gaussians,22
 Portimão,B,Online Logistic Regression,coefficients incl. intercept,12
 Portimão,B,Hoeffding Tree,tree nodes,33
@@ -13,6 +14,7 @@ Portimão,B,Online Bagging,active ensemble tree nodes,179
 Portimão,B,Adaptive Random Forest,active ensemble tree nodes,59
 Portimão,B,UnimPA,rules,5
 Portimão,B,UnimSafe,rules,5
+Portimão,B,Tuned Online Bagging,active ensemble tree nodes,706
 Covilhã,A,Gaussian Naive Bayes,class-feature Gaussians,8
 Covilhã,A,Online Logistic Regression,coefficients incl. intercept,5
 Covilhã,A,Hoeffding Tree,tree nodes,21
@@ -20,6 +22,7 @@ Covilhã,A,Online Bagging,active ensemble tree nodes,109
 Covilhã,A,Adaptive Random Forest,active ensemble tree nodes,27
 Covilhã,A,UnimPA,rules,5
 Covilhã,A,UnimSafe,rules,5
+Covilhã,A,Tuned Online Bagging,active ensemble tree nodes,537
 Covilhã,B,Gaussian Naive Bayes,class-feature Gaussians,22
 Covilhã,B,Online Logistic Regression,coefficients incl. intercept,12
 Covilhã,B,Hoeffding Tree,tree nodes,19
@@ -27,3 +30,4 @@ Covilhã,B,Online Bagging,active ensemble tree nodes,99
 Covilhã,B,Adaptive Random Forest,active ensemble tree nodes,29
 Covilhã,B,UnimPA,rules,5
 Covilhã,B,UnimSafe,rules,5
+Covilhã,B,Tuned Online Bagging,active ensemble tree nodes,486

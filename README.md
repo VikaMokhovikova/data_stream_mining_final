@@ -1,7 +1,7 @@
 # Data Stream Mining final project · FP-T02
 Open VSCode_files and install requirements.txt into the notebook kernel. Open src/Final_Project_Heat_Stress.ipynb and run all cells. The 20 cached ERA5 files support offline replay after installing the packages. Only ENF_UnimNeuron_PA.py and ENF_UnimNeuron_Safe.py are required beside the main notebook. The original exploratory notebook is in Old_Exploratory_Notebook_Not_Main.
 
-Results include all 28 configurations. results/tables/model_complexity.csv gives final sizes in model-specific units, rule_history.csv records checkpoint counts, and final_rules.csv gives feature centres, weights, support, width and consequent evidence. Report/main.tex and rolling.pdf form the editable Overleaf project. The paper's rolling plot uses representation B checkpoints for Online Bagging, UnimPA and UnimSafe. Package versions for the supplied run are in results/environment.json.
+Results include all 32 configurations (2 cities × 2 representations × 8 learners: the seven default learners plus Tuned Online Bagging, whose settings were selected on the 2016–2017 warm-up only). results/tables/model_complexity.csv gives final sizes in model-specific units, rule_history.csv records checkpoint counts, and final_rules.csv gives feature centres, weights, support, width and consequent evidence. Report/main.tex and rolling.pdf form the editable Overleaf project. The paper's rolling plot uses representation B checkpoints for Online Bagging, UnimPA and UnimSafe. Package versions for the supplied run are in results/environment.json.
 
 ## Setup (virtual environment)
 

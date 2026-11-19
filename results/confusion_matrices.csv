@@ -6,6 +6,7 @@ Portimão,A,Online Bagging,15806,219,510,4345
 Portimão,A,Adaptive Random Forest,15675,350,481,4374
 Portimão,A,UnimPA,15556,469,656,4199
 Portimão,A,UnimSafe,14306,1719,1851,3004
+Portimão,A,Tuned Online Bagging,15797,228,460,4395
 Portimão,B,Gaussian Naive Bayes,13856,2169,199,4656
 Portimão,B,Online Logistic Regression,15695,330,325,4530
 Portimão,B,Hoeffding Tree,15645,380,195,4660
@@ -13,6 +14,7 @@ Portimão,B,Online Bagging,15811,214,308,4547
 Portimão,B,Adaptive Random Forest,15687,338,508,4347
 Portimão,B,UnimPA,15267,758,758,4097
 Portimão,B,UnimSafe,14221,1804,1758,3097
+Portimão,B,Tuned Online Bagging,15879,146,223,4632
 Covilhã,A,Gaussian Naive Bayes,16935,1242,59,2644
 Covilhã,A,Online Logistic Regression,17962,215,192,2511
 Covilhã,A,Hoeffding Tree,18000,177,167,2536
@@ -20,6 +22,7 @@ Covilhã,A,Online Bagging,18042,135,209,2494
 Covilhã,A,Adaptive Random Forest,18004,173,301,2402
 Covilhã,A,UnimPA,17953,224,398,2305
 Covilhã,A,UnimSafe,18046,131,2433,270
+Covilhã,A,Tuned Online Bagging,18051,126,205,2498
 Covilhã,B,Gaussian Naive Bayes,16590,1587,77,2626
 Covilhã,B,Online Logistic Regression,17956,221,174,2529
 Covilhã,B,Hoeffding Tree,18037,140,138,2565
@@ -27,3 +30,4 @@ Covilhã,B,Online Bagging,18054,123,101,2602
 Covilhã,B,Adaptive Random Forest,17997,180,317,2386
 Covilhã,B,UnimPA,17697,480,480,2223
 Covilhã,B,UnimSafe,17476,701,1719,984
+Covilhã,B,Tuned Online Bagging,18102,75,96,2607

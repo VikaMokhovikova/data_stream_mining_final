@@ -14,7 +14,7 @@
   "target": "T2 — pooled 2016-2017 warm-up temperature 80th percentile",
   "random_seed": 42,
   "ensemble_size": 5,
-  "python_version": "3.12.1",
+  "python_version": "3.12.12",
   "packages": {
     "numpy": "2.5.5",
     "pandas": "2.3.3",
@@ -23,5 +23,5 @@
     "scikit-learn": "1.9.1",
     "river": "0.24.2"
   },
-  "generated_utc": "2026-11-19T13:24:35.662004+00:00"
+  "generated_utc": "2026-11-19T14:24:54.344542+00:00"
 }
