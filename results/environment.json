@@ -13,8 +13,20 @@
   "weather_model": "era5",
   "target": "T2 — pooled 2016-2017 warm-up temperature 80th percentile",
   "random_seed": 42,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
   "ensemble_size": 5,
-  "python_version": "3.12.12",
+  "python_version": "3.14.3",
   "packages": {
     "numpy": "2.5.5",
     "pandas": "2.3.3",
@@ -23,5 +35,5 @@
     "scikit-learn": "1.9.1",
     "river": "0.24.2"
   },
-  "generated_utc": "2026-11-19T14:57:14.681854+00:00"
+  "generated_utc": "2026-11-21T11:07:17.431967+00:00"
 }
